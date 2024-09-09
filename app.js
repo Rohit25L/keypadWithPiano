@@ -118,48 +118,5 @@ let R = document.getElementById("R");
   }
   })
 
-// A.addEventListener("keydown",()=>{
-//     play("A0");
-// })
-// S.addEventListener("click",()=>{
-//     play1();
-// })
-// D.addEventListener("click",()=>{
-//     play2();
-// })
-// F.addEventListener("click",()=>{
-//     play3();
-// })
-// G.addEventListener("click",()=>{
-//     play4();
-// })
-// H.addEventListener("click",()=>{
-//     play5();
-// })
-// J.addEventListener("click",()=>{
-//     play6();
-// })
-// K.addEventListener("click",()=>{
-//     play7();
-// })
-// L.addEventListener("click",()=>{
-//     play8();
-// })
-// P.addEventListener("click",()=>{
-//     play9();
-// })
-// O.addEventListener("click",()=>{
-//     play10();
-// })
-// Q.addEventListener("click",()=>{
-//     play11();
-// })
-// W.addEventListener("click",()=>{
-//     play12();
-// })
-// R.addEventListener("click",()=>{
-//     play15.method("A1");
-// })
-
 
 
