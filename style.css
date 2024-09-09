@@ -14,7 +14,6 @@
 .keypad{
     height: 9vmin;
     width: 180vmin;
-    /* background-color: aqua; */
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -26,18 +25,11 @@ button{
     border-radius: 1vmin;
     border: 3px solid rgb(206, 19, 19);
     background-color: rgba(206, 19, 19, 0.3);
-    /* background-color: rgb(47, 249, 111,0.2); */
-    /* opacity: 0.4; */
     color: rgb(0, 0, 0);
     font-size: 4vmin;
     font-weight: 900;
     transition: all 0.7;
-
 }
-/* button:hover{
-    height: 8vmin;
-    width: 8vmin;
-} */
  .new{
     height: 8.7vmin;
     width: 8.7vmin;
